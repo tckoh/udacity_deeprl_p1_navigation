@@ -3,7 +3,7 @@
 
 ### Background
 
-For this project, the Unity ML-Agents Banana simulated environment to train an agent to navigate (and collect bananas) 
+For this project, the Unity ML-Agents Banana simulated environment was used to train an agent to navigate (and collect bananas) 
 in a large, square world. A reward of +1 is awarded for collecting a yellow banana while -1 is awarded for 
 collecting a blue banana.
 
@@ -29,14 +29,14 @@ Step 3: Place the file in the DRLND GitHub repository, in the `p1_navigation/` f
 Step 4: Clone the GitHub repository for this project into the `p1_navigation/` folder.
 Step 5: Download and install Anaconda [click here] (https://www.anaconda.com/distribution/)
 Step 6: Create and activate a virtual environment with the following libraries:
-    * UnityAgents (ver. 0.4.0) [click here] (https://pypi.org/project/unityagents/) for more information
-    * Pandas [click_here] (https://anaconda.org/anaconda/pandas) for more information
-    * Numpy [click here] (https://anaconda.org/anaconda/numpy) for more information
-    * Random [click here] (https://pypi.org/project/random2/) for more information
-    * Sys 
-    * Torch [click here] (https://pytorch.org/) for more information
-    * Matplotlib [click here] (https://anaconda.org/conda-forge/matplotlib) for more information
-    * Collections [click here] (https://anaconda.org/lightsource2-tag/collection) for more information
+* UnityAgents (ver. 0.4.0) [click here] (https://pypi.org/project/unityagents/) for more information
+* Pandas [click_here] (https://anaconda.org/anaconda/pandas) for more information
+* Numpy [click here] (https://anaconda.org/anaconda/numpy) for more information
+* Random [click here] (https://pypi.org/project/random2/) for more information
+* Sys 
+* Torch [click here] (https://pytorch.org/) for more information
+* Matplotlib [click here] (https://anaconda.org/conda-forge/matplotlib) for more information
+* Collections [click here] (https://anaconda.org/lightsource2-tag/collection) for more information
 
 
 ### Instructions
