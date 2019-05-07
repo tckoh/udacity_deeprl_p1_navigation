@@ -24,11 +24,17 @@ The environment is considered solved if the agent is able to receive an average 
 
 ### System Setup on Linux Machine
 Step 1: Clone the DRLND Repository [click here] (https://github.com/udacity/deep-reinforcement-learning#dependencies)
+
 Step 2: Download the Unity Environment [click here] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
+
 Step 3: Place the file in the DRLND GitHub repository, in the `p1_navigation/` folder, and unzip (or decompress) the file.
+
 Step 4: Clone the GitHub repository for this project into the `p1_navigation/` folder.
+
 Step 5: Download and install Anaconda [click here] (https://www.anaconda.com/distribution/)
+
 Step 6: Create and activate a virtual environment with the following libraries:
+
 * UnityAgents (ver. 0.4.0) [click here] (https://pypi.org/project/unityagents/) for more information
 * Pandas [click_here] (https://anaconda.org/anaconda/pandas) for more information
 * Numpy [click here] (https://anaconda.org/anaconda/numpy) for more information
