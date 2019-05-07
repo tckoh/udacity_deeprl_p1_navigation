@@ -14,10 +14,10 @@ agent's forward direction.
 
 The agent will take one of four discrete actions at each time step i.e. walk forward or backward and turn left or right. 
 
-0 - move forward.
-1 - move backward.
-2 - turn left.
-3 - turn right.
+- 0 - move forward.
+- 1 - move backward.
+- 2 - turn left.
+- 3 - turn right.
 
 The environment is considered solved if the agent is able to receive an average reward (over 100 consecutive episodes) of at least +13.
 
